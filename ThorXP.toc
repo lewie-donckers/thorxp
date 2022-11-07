@@ -1,0 +1,6 @@
+## Interface: 20504
+## Title: ThorXP 2.5.4.0
+## Notes: ThorXP displays information about experience gains.
+## Author: Thorinson
+
+ThorXP.lua
