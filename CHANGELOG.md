@@ -1,5 +1,5 @@
-# ThorXP changelog
+# ThorExperience changelog
 
-## 2.5.4.0 (2022-08-12)
+## 1.0.0 (2022-11-24)
 
 First release.

@@ -1,0 +1,6 @@
+## Interface: 30400
+## Title: ThorExperience 1.0.0
+## Notes: ThorExperience displays information about experience gains.
+## Author: Thorinsøn
+
+ThorExperience.xml

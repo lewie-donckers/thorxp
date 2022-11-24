@@ -1,6 +1,0 @@
-## Interface: 30400
-## Title: ThorXP 3.4.0.0
-## Notes: ThorXP displays information about experience gains.
-## Author: Thorinson
-
-ThorXP.lua
