@@ -35,7 +35,7 @@ local function Log(message, ...)
 end
 
 local function LogDebug(message, ...)
-    Log("[DBG] " .. message, ...)
+    -- Log("[DBG] " .. message, ...)
 end
 
 local function GetXP()
